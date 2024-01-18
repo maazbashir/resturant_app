@@ -1,24 +1,9 @@
-# README
+Test Task:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic schema is setup how the relations interlink with  each other
 
-Things you may want to cover:
+Pending:
 
-* Ruby version
+- front end is pending due to time 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Next step is to make Order to select multiple Product and calculate there prices
